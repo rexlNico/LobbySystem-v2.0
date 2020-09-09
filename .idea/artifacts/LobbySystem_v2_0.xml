@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LobbySystem v2.0">
+    <output-path>$PROJECT_DIR$/../../../McServerProgramm/servers/1.8.8/plugins</output-path>
+    <root id="archive" name="LobbySystem v2.0.jar">
+      <element id="module-output" name="LobbySystem v2.0" />
+    </root>
+  </artifact>
+</component>

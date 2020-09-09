@@ -1,0 +1,8 @@
+main: de.rexlnico.lobbysystem.main.Main
+version: 2.0
+name: LobbySystem
+author: rexlNico
+
+commands:
+  teleport:
+  build:

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cloudnet-bridge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../cloudnet-bridge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../cloudnet-driver-3.2.0-RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../cloudnet-wrapper-jvm-3.2.0-RELEASE (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
